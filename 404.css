@@ -12,7 +12,7 @@ body {
 
   .err {
     color: #ffffff;
-    font-family: 'Roboto Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 11rem;
     position:absolute;
     left: 20%;
@@ -29,7 +29,7 @@ body {
 
  .err2 {
     color: #ffffff;
-    font-family: 'Roboto Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 11rem;
     position:absolute;
     left: 68%;
@@ -38,7 +38,7 @@ body {
 
 .msg {
     text-align: center;
-    font-family: 'Roboto Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 1.6rem;
     position:absolute;
     left: 16%;
